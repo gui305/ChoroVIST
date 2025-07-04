@@ -5,7 +5,7 @@
 ![Welcome Screen](https://github.com/user-attachments/assets/ce603e6a-8b02-4c33-8899-e9592a425a91)
 
 ## ChoroVIST Main Screen
-![Main Screen](https://github.com/user-attachments/assets/ce603e6a-8b02-4c33-8899-e9592a425a91)
+![Main Screen](https://github.com/user-attachments/assets/a5a14f94-06ca-487e-85ab-1549798fd427)
 
 ## Chorovist DataBase and Generated Report
 ![Main Screen](https://github.com/user-attachments/assets/ce603e6a-8b02-4c33-8899-e9592a425a91)
