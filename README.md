@@ -8,7 +8,7 @@
 ![Main Screen](https://github.com/user-attachments/assets/a5a14f94-06ca-487e-85ab-1549798fd427)
 
 ## Chorovist DataBase and Generated Report
-![Main Screen](https://github.com/user-attachments/assets/ce603e6a-8b02-4c33-8899-e9592a425a91)
+![DataBase](https://github.com/user-attachments/assets/6cb23d30-feb2-45a7-95ff-207d56da65d3)
 
 ## 🔧 Installation
 
