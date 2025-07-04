@@ -6,7 +6,8 @@
 
 ## 🔧 Installation
 
-We recommend creating a Conda environment, just like in the original Choroidalyzer repository:
+It is necessary to first create a conda environment. If you haven't installed it yet, we recommend using the lightweight [Miniconda](https://www.anaconda.com/docs/getting-started/miniconda/main). Then, create an environment for ChoroVIST and activate it:
+
 
 ```bash
 conda create -n chorovist python=3.10
