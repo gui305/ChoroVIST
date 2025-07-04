@@ -2,20 +2,22 @@
 ### **ChoroVIST** is an interface to analyze choroid metrics such as Vascular Index and Thickness and performs choroid region segmentations using a backend code called **Choroidalyzer**, which is also available on GitHub on https://github.com/justinengelmann/Choroidalyzer . The interface is implemented with a simple database and includes several useful features that make it easy to use and highly relevant for medical professionals.
 
 ## ChoroVIST Welcome Screen
-![Welcome Screen](https://github.com/user-attachments/assets/ce603e6a-8b02-4c33-8899-e9592a425a91)
 ### This is the welcome screen of the app, displaying the main icons that reference the app's icon and the educational institutions responsible for supporting its development.
+![Welcome Screen](https://github.com/user-attachments/assets/ce603e6a-8b02-4c33-8899-e9592a425a91)
+
 
 ## ChoroVIST Main Screen
-![Main Screen](https://github.com/user-attachments/assets/a5a14f94-06ca-487e-85ab-1549798fd427)
 ### This is the main screen for daily use by medical professionals, allowing the analysis of new exams as well as searching through the patient's history for previous uploaded exams.
+![Main Screen](https://github.com/user-attachments/assets/a5a14f94-06ca-487e-85ab-1549798fd427)
+
 
 ## Chorovist DataBase
-![DataBase](https://github.com/user-attachments/assets/6cb23d30-feb2-45a7-95ff-207d56da65d3) 
 ### This is the database with which the app communicates, implemented in Excel to better suit the medical environment and provide easier navigation and interpretation.
+![DataBase](https://github.com/user-attachments/assets/6cb23d30-feb2-45a7-95ff-207d56da65d3)
 
 ## Generated Clinical Report
-![DataBase](https://github.com/user-attachments/assets/efecece9-fe9c-451b-9cd4-1ffaa726e2ae)
 ### This is an example of a generated medical report from the app, ready for printing and clinically relevant.
+![DataBase](https://github.com/user-attachments/assets/efecece9-fe9c-451b-9cd4-1ffaa726e2ae)
 
 ## 🔧 Installation
 
