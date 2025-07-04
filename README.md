@@ -7,8 +7,11 @@
 ## ChoroVIST Main Screen
 ![Main Screen](https://github.com/user-attachments/assets/a5a14f94-06ca-487e-85ab-1549798fd427)
 
-## Chorovist DataBase and Generated Report
-![DataBase](https://github.com/user-attachments/assets/6cb23d30-feb2-45a7-95ff-207d56da65d3)
+## Chorovist DataBase
+![DataBase](https://github.com/user-attachments/assets/6cb23d30-feb2-45a7-95ff-207d56da65d3) 
+
+## Generated Clinical Report
+![DataBase](https://github.com/user-attachments/assets/efecece9-fe9c-451b-9cd4-1ffaa726e2ae)
 
 ## 🔧 Installation
 
