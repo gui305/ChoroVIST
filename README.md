@@ -85,13 +85,29 @@ cd C:\Users\YourName\Documents
 
 ### 3.2 Clone the Repository
 
+> ⚠️ Make sure Git is installed on your system.  
+> You can check by running:
+>
+> ```bash
+> git --version
+> ```
+>
+> If it's not installed, download it from [git-scm.com](https://git-scm.com/downloads).  
+
 If you haven't cloned the repository yet, you can do so by running the following command in your desired directory:
 
 ```bash
 git clone https://github.com/gui305/ChoroVIST.git
 ```
+### 3.3 Enter the ChoroVIST Directory
 
-### 3.3 Run ChoroVIST
+After cloning the repository, navigate into the `ChoroVIST` folder using the terminal:
+
+```bash
+cd ChoroVIST
+```
+
+### 3.4 Run ChoroVIST
 Now that you are in the repository directory, you can run the application using Python:
 
 ```bash
