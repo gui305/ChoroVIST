@@ -23,16 +23,37 @@
 
 ### 🛠️ Step 1: Create and Activate a Conda Environment
 
-First, you'll need to create a dedicated conda environment for ChoroVIST. This isolates the dependencies for ChoroVIST and ensures they won't conflict with other projects.
+First, you'll need to create a dedicated conda environment for ChoroVIST. 
+If you haven't installed it on your computer yet, we recommend the lightweight [Miniconda](https://www.anaconda.com/download/success).
+During installation, make sure to:
+**.** Tick the box that says "Add Miniconda to my PATH environment variable" (if available).
+**.** Choose the option to register Miniconda as your default Python.
 
-#### 1.1 Create the Conda Environment
+The creation of this environment isolates the dependencies for ChoroVIST and ensures they won't conflict with other projects.
+
+#### 1.1 Open your terminal or the Miniconda/Conda PowerShell (depending on what you installed)
+
+- **If you're on Windows**:
+  - Click the **Start menu** (or press the Windows key).
+  - Type `terminal`, `Miniconda`, or `Anaconda`.
+  - Open either:
+    - `Miniconda Prompt`
+    - `Anaconda Prompt`
+    - or `Anaconda PowerShell Prompt`
+  - Alternatively, if you open **Windows Terminal**, you can click the **down arrow at the top tab bar** and select **"Conda PowerShell"** if it appears.
+
+- **If you're on macOS or Linux**:
+  - Open the **Terminal** application (you can find it via Spotlight or your applications menu).
+  - Then type conda commands directly as shown in the next steps.
+
+#### 1.2 Create the Conda Environment
 
 Run the following command to create a new environment named `chorovist` with Python 3.10:
 
 ```bash
 conda create -n chorovist python=3.10
 ```
-#### 1.2 Activate the Environment
+#### 1.3 Activate the Environment
 
 Once the environment is created, activate it by running:
 
