@@ -78,3 +78,7 @@ pyinstaller --onefile --windowed --hidden-import=skimage.measure --icon=coroide.
 
 #### 4.3 Run the Executable
 After compiling, you'll find the ChoroVIST executable inside the dist folder. Simply double-click to run the application like a normal app. You can change the app location understanding that the app will run over the ChoroVIST Database and Datafiles that you have in the directory of the exec.
+
+
+
+#### Everyone is free to use the app for clinical purposes and to edit the code for further investigation or personal changes. 
