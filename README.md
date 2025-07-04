@@ -1,5 +1,5 @@
 # **ChoroVIST**
-### **ChoroVIST** is an interface to analyze choroid metrics such as Vascular Index and Thickness and performs choroid region segmentations using a backend code called **Choroidalyzer**, which is also available on GitHub on https://github.com/justinengelmann/Choroidalyzer . The interface is implemented with a simple database and includes several useful features that make it easy to use and highly relevant for medical professionals.o use
+### **ChoroVIST** is an interface to analyze choroid metrics such as Vascular Index and Thickness and performs choroid region segmentations using a backend code called **Choroidalyzer**, which is also available on GitHub on https://github.com/justinengelmann/Choroidalyzer . The interface is implemented with a simple database and includes several useful features that make it easy to use and highly relevant for medical professionals.
 
 ## ChoroVIST Welcome Screen
 ![Welcome Screen](https://github.com/user-attachments/assets/ce603e6a-8b02-4c33-8899-e9592a425a91)
