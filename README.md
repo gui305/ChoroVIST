@@ -73,7 +73,17 @@ pip install torch torchvision torchaudio matplotlib tqdm pandas scikit-image sci
 
 Once the environment is ready and dependencies are installed, ChoroVIST should be ready to run.
 
-### 3.1 Clone the Repository (If You Haven't Already)
+### 3.1 Navigate to Your Desired Folder
+
+Before cloning the repository, use the terminal to move to the folder where you want ChoroVIST to be saved.
+
+- For example, if you want to place it in your **Documents** folder:
+
+```bash
+cd C:\Users\YourName\Documents
+```
+
+### 3.2 Clone the Repository
 
 If you haven't cloned the repository yet, you can do so by running the following command in your desired directory:
 
@@ -81,7 +91,7 @@ If you haven't cloned the repository yet, you can do so by running the following
 git clone https://github.com/gui305/ChoroVIST.git
 ```
 
-### 3.2 Run ChoroVIST
+### 3.3 Run ChoroVIST
 Now that you are in the repository directory, you can run the application using Python:
 
 ```bash
