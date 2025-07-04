@@ -40,12 +40,8 @@ The creation of this environment isolates the dependencies for ChoroVIST and ens
 
 - **If you're on Windows**:
   - Click the **Start menu** (or press the Windows key).
-  - Type `terminal`, `Miniconda`, or `Anaconda`.
-  - Open either:
-    - `Miniconda Prompt`
-    - `Anaconda Prompt`
-    - or `Anaconda PowerShell Prompt`
-  - Alternatively, if you open **Windows Terminal**, you can click the **down arrow at the top tab bar** and select **"Conda PowerShell"** if it appears.
+  - Type and open `terminal`
+  - Open your Conda Prompt
 
 - **If you're on macOS or Linux**:
   - Open the **Terminal** application (you can find it via Spotlight or your applications menu).
