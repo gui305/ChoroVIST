@@ -10,7 +10,7 @@
 
 ## ChoroVIST Main Screen
 ### This is the main screen for daily use by medical professionals, allowing the analysis of new exams as well as searching through the patient's history for previous uploaded exams.
-![Main Screen](https://github.com/user-attachments/assets/25bd8764-46f2-4f97-84fd-7f03c11c69cf)
+![Main Screen](https://github.com/user-attachments/assets/10e7dfa4-1360-4195-abd4-dea00a292e11)
 
 
 ## Chorovist DataBase
