@@ -19,7 +19,7 @@
 
 ## Generated Clinical Report
 ### This is an example of a generated medical report from the app, ready for printing and clinically relevant.
-![DataBase](https://github.com/user-attachments/assets/efecece9-fe9c-451b-9cd4-1ffaa726e2ae)
+![DataBase](https://github.com/user-attachments/assets/a6225a20-ff57-474a-8818-eb8609b628c8)
 
 # 🔧 Installation
 
